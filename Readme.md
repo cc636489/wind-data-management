@@ -54,8 +54,7 @@ Here are how Hwind data and GFS data looks like:
 ### Results: sequence wind data visualization.
 Here is the sequence wind velocity profile during hurricane hermine in 2016.
 <p align="center">
-![](/doc/wind_velocity_sequance_data.gif)
-<img src="/doc/wind_velocity_sequance_data.gif">
+![](https://github.com/cc636489/wind-data-management/raw/master/doc/wind_velocity_sequance_data.gif)
 </p>
 
 
