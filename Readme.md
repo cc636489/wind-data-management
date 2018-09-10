@@ -23,7 +23,7 @@ This program requires Python2.7 and several packages installed:
 
 Modify `stdinput.py` to your needs, and simply run by:
 
-        python Auto_joint_wind_data_set.py
+        python main.py
 
 
 ## Test results:
@@ -54,6 +54,7 @@ Here are how Hwind data and GFS data looks like:
 ### Results: sequence wind data visualization.
 Here is the sequence wind velocity profile during hurricane hermine in 2016.
 <p align="center">
+![](/doc/wind_velocity_sequance_data.gif)
 <img src="/doc/wind_velocity_sequance_data.gif">
 </p>
 
